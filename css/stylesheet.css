@@ -2,3 +2,18 @@
   --bulma-primary-h: 245deg;
   --bulma-primary-s: 91%;
 }
+.navbar-start .navbar-item {
+  color: #FFFFFF;
+}
+.navbar-start .navbar-item:hover {
+  background-color: #FFFFFF;
+  color: #1909C8;
+}
+.navbar-brand .navbar-item {
+    color: #FFFFFF;
+  }
+
+.navbar-brand .navbar-item:hover {
+    background-color: #FFFFFF;
+    color: #1909C8;
+}
